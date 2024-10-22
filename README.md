@@ -36,7 +36,7 @@ WHO IS HÜMEYRA ÇİMEN AS A COMPUTER ENGINEER
 📫 **İletişim**:
 - [LinkedIn](https://www.linkedin.com/in/hmyrcmn)
 - [GitHub](https://github.com/hmyrcmn)
-- **[CV'mi indir](https://github.com/hmyrcmn/hmyrcmn/raw/main/cv.pdf)**
+- **[CV'mi indir](https://github.com/hmyrcmn/PORTFOLIO/blob/main/HumeyraCimenCV.pdf)**
 
 ---
 
